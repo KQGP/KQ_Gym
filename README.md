@@ -47,6 +47,3 @@ flutter run
 flutter build apk
 flutter build ios
 ```
-
-## 📄 License
-No license specified.
